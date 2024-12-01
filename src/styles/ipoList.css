@@ -1,0 +1,97 @@
+.sub-detail,
+.breadcrumb-item,
+.header th,
+._1ixJ3 {
+  font-size: 11px;
+  color: #7b7883;
+  margin-bottom: 2px;
+}
+.font-size {
+  font-size: 13px;
+  font-weight: 600;
+  color: #14143c;
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  gap: 12px;
+}
+.header th {
+  background-color: #f5f5f5 !important;
+}
+
+.border-radius {
+  border-radius: 16px;
+}
+.text-justify {
+  text-align: justify;
+}
+._3uApM {
+  display: none !important;
+}
+._1hzhf {
+  font-size: 11px;
+  font-weight: 600;
+  color: #14143c;
+}
+._2Jtxm ._2JvrO,
+._2kL0S {
+  height: 1.5rem !important;
+  width: 1.5rem !important;
+  line-height: 1.5rem !important;
+}
+._2JvrO svg {
+  width: 1rem;
+}
+._2Jtxm._2ZUAI ._2JvrO {
+  background-color: #62b868 !important;
+}
+._2Jtxm ._1hzhf {
+  width: 68px !important;
+}
+._2Jtxm ._1hzhf,
+._1ixJ3 {
+  font-size: 9px;
+}
+.apply_btn {
+  background-color: #14143c;
+  font-size: 13px;
+  color: #fff;
+  padding: 12px 30px;
+  margin-left: 12px;
+}
+._2Jtxm::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  height: 3px;
+  width: 100%;
+  right: 112%;
+  transform: translateY(-50%);
+  z-index: -1;
+  background: linear-gradient(to left, #62b868 50%, #4db193 50%);
+}
+.logoContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.detailflex-container {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  text-align: left;
+  gap: 12px;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.img-thumbnail {
+  width: 50px !important;
+}
+.step-progress-bar {
+  padding: 0.4rem !important;
+}
+/* Default layout for larger screens (horizontal steps) */
